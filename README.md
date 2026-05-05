@@ -4,7 +4,7 @@ Experience the classic arcade table tennis game, remade in JavaScript.
 
 ## Where to Play
 
-[GitHub Pages](https://cpeyton78910.github.io/jsPong) [Itch.io](https://cpeyton78910.itch.io/js-pong)
+[GitHub Pages](https://violet78910.github.io/jsPong) [Itch.io](https://violet78910.itch.io/js-pong)
 
 ## How to Play
 
